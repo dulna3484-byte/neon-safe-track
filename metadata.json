@@ -1,0 +1,6 @@
+{
+  "name": "SafeTrack",
+  "description": "Safe, consent-based location sharing with trusted family and friends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
